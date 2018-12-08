@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Forum</string>
+    <string name="title_activity_forum">Forum</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="demoData">We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget. We have over 3 years of development experience in this area. We are also proud of ourselves on our after-sales client-care including our guarantees, staff-training and online and offline support.</string>
+
+</resources>
